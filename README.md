@@ -1,6 +1,6 @@
 # About
 
-program ini dibuat berdasarkan kasus yang ada pada soal harian LSP Universitas Gunadarma tahun 2021
+program ini dibuat berdasarkan kasus yang ada pada soal harian LSP Universitas Gunadarma tahun 2022
 dibuat oleh:
 
     Nama: Rizky Dwi Santosoo
