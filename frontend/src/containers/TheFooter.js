@@ -5,8 +5,8 @@ const TheFooter = () => {
   return (
     <CFooter fixed={false}>
       <div>
-        <a href="https://tripoloski1337.github.io" target="_blank" rel="noopener noreferrer">Arsalan</a>
-        <span className="ml-1">&copy; 2020 Universitas Gunadarma.</span>
+        <a href="https://tripoloski1337.github.io" target="_blank" rel="noopener noreferrer">San</a>
+        <span className="ml-1">&copy; 2022 Universitas Gunadarma.</span>
       </div>
       <div className="mfs-auto">
         <span className="mr-1">Powered by</span>

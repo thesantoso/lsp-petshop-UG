@@ -10,7 +10,7 @@ import {
   CCarouselInner,
   CCarouselItem,
   CCol,
-  CRow 
+  CRow
 } from '@coreui/react'
 import { DocsLink } from 'src/reusable'
 
@@ -28,7 +28,7 @@ const Dashboard = () => {
       <CCol xs="12" xl="12">
         <CCard>
           <CCardHeader>
-            Weclome to arsalan pethsop
+            Weclome to San pethsop
           </CCardHeader>
           <CCardBody>
             <CCarousel animate autoSlide={3000}>
@@ -44,7 +44,7 @@ const Dashboard = () => {
                 </CCarouselItem>
                 <CCarouselItem>
                   <img className="d-block w-100" src={slides[2]} alt="slide 3"/>
-                  <CCarouselCaption><h3>Your lil friend need something? let we help you</h3><p>-arsalan</p></CCarouselCaption>
+                  <CCarouselCaption><h3>Your lil friend need something? let we help you</h3><p>-San</p></CCarouselCaption>
                 </CCarouselItem>
               </CCarouselInner>
               <CCarouselControl direction="prev"/>

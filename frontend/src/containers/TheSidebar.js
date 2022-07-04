@@ -27,7 +27,7 @@ const TheSidebar = () => {
       onShowChange={(val) => dispatch({type: 'set', sidebarShow: val })}
     >
       <CSidebarBrand className="d-md-down-none" to="/">
-        <h4>Arsalan Petshop</h4>
+        <h4>San Petshop</h4>
       </CSidebarBrand>
       <CSidebarNav>
 

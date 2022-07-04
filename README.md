@@ -1,17 +1,16 @@
 # About
 
 program ini dibuat berdasarkan kasus yang ada pada soal harian LSP Universitas Gunadarma tahun 2021
-dibuat oleh: 
-    
-    Nama: Muhammad Arsalan Diponegoro
-    Npm: 13117895
-    Kelas: 4KA23
+dibuat oleh:
 
+    Nama: Rizky Dwi Santosoo
+    Npm: 116118316
+    Kelas: 4KA27
 
 # Prerequisites
 
 - Node.js
-- npm 
+- npm
 - mongodb
 
 # How to run
